@@ -23,7 +23,7 @@
     <dependencies>
         <dependency>
             <groupId>com.canon</groupId>
-            <artifactId>commob-web</artifactId>
+            <artifactId>commom-web</artifactId>
             <version>${common-web.version}</version>
         </dependency>
 

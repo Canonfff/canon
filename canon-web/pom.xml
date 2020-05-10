@@ -10,7 +10,7 @@
     <dependencies>
         <dependency>
             <groupId>com.canon</groupId>
-            <artifactId>commob-web</artifactId>
+            <artifactId>commom-web</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
