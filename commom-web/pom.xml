@@ -10,7 +10,7 @@
 
     <properties>
         <spring-boot.version>2.1.0.RELEASE</spring-boot.version>
-        <fastJson.version>1.2.58</fastJson.version>
+        <fastJson.version>1.2.83</fastJson.version>
         <guava.version>28.1-jre</guava.version>
     </properties>
 
